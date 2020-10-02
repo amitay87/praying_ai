@@ -18,3 +18,6 @@ Whether you believe in god, awared universe, whatever, or you are a complete ath
 My assumption is that this is for a good reason. I claim that as humans praying to an infinite almighty power may lift  the prayer's awareness from selfish, and self-survival focus to a higher level of awareness so that the awareness can see the "bigger picture".
 
 In similar way, I claim that it may be that if we add to the learning algorithm regular daily routine a session of praying,  it might rewire it's neural connection to be more aware to the bigger picture
+
+# relate issue - meditation
+A further interesting research direction is training the AI to meditate on a daily basis. this is similar to praying but not identical. I will be glad if this repo would contain this issue too, but this is currently not the main research direction of this repo
